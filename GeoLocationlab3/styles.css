@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;600;700&family=Lexend+Deca:wght@100;200;300;400;500;600;700&family=Montserrat:wght@400;700&family=Mulish:wght@300&family=Poppins:wght@300;400;600&family=Urbanist:wght@300;400;600;700;800;900&display=swap');
+
+body {
+
+    background-image: url(./image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(1px) contrast(40%) hue(20%);
+   
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Urbanist";
+}
+.home, .contact {
+    font-size: 1.4rem;
+}
+.second {
+    color: var(--bs--secondary-color) !important;
+}
+:root{
+    --bs-dark-color: #1a1d20;
+    --bs-dark-primary:#0e0d0dcd;
+    --bs-main-color:#fff;
+    --bs-primary-color:#c6c6c6;
+    --bs--secondary-color: #29a9fd;
+    --bs-supporting-color: #C850C0;
+}
+a {
+    text-decoration: none;
+    -webkit-flow-into: 1.15rem !important;
+    letter-spacing: 0.02rem;
+    word-spacing: .2rem;
+}
+.geolocation {
+    font-size: 1.6rem;
+    letter-spacing: 0.03rem;
+    font-weight: 500 !important;
+}
+#map-container {
+    border: 1px solid #333;
+    border-radius: 1.5rem;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+#map {
+    width: 100%;
+    height: 600px;
+}
+
+.svg-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    width: 100%;
+    height: 100px;
+    background-color: rgba(16, 6, 6, 0.527);
+    border-radius: 1.5rem;
+    color: white;
+    font-size: 1.5rem;
+    letter-spacing: 0.06rem;
+}
+.bg-color {
+    background-color: var(--bs-dark-primary);
+}
+
+.nav-link {
+    color: var(--bs-dark-primary);
+    font-weight: bold;
+}
+.nav-link:hover {
+    color: var(--bs--secondary-color) !important ;
+}
