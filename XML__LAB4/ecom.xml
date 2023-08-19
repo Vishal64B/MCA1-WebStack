@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE products SYSTEM "ecom.dtd">
+<?xml-model href="ecom.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+
+<products>
+    <product pid="1">
+        <productname>Realme</productname>
+        <price>300</price>
+        <quantity>200</quantity>
+        <category>Electronics</category>
+    </product>
+</products>
