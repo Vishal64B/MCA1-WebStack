@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="product_schema.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<products>
+    <product pid="101">
+    <id>1</id>
+    <name>PowerBank</name>
+    <price>600</price>
+    <description>RealMe Power Bank</description>
+    </product>
+    <product pid="102">
+        <id>2</id>
+        <name>Laptop</name>
+        <price>5500</price>
+        <description>Asus laptop</description>
+    </product>
+    <product pid="103">
+        <id>3</id>
+        <name>Iphone</name>
+        <price>1499.99</price>
+        <description>Apple's Iphone 14 Pro</description>
+    </product>
+    <product pid="104">
+        <id>4</id>
+        <name>Earphones</name>
+        <price>1000.99</price>
+        <description>Sony MDR Earphones</description>
+    </product>
+</products>
