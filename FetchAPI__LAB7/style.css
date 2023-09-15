@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000");
+    background-size: cover; */
+    background-color: rgba(200, 198, 198, 0.774);
+}
+
+.container {
+    min-width: 100%;
+    min-height: 100vh;
+    justify-content: center;
+   
+}
+.container h1 {
+    text-align: center;
+    font-weight: 1000;
+    padding: 45px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#fetchBooks {
+    border-radius: 0.5rem;
+    height: 3rem;
+    width: 15rem;
+    padding: 10px;
+    background-color: rgba(222, 101, 32, 0.441);
+    border: none;
+    font-size: large;
+    cursor: pointer;
+    
+}
+#bookList {
+    padding-top: 60px;
+    max-width: 40%;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* min-height: 70vh; */
+    /* background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v546batch3-mynt-34-badgewatercolor_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=89288ef4b47127f7f34a5998b50e4470") ; */
+}

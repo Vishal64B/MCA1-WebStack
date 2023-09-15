@@ -1,0 +1,62 @@
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen"
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald"
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger"
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien"
+    },
+    {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown"
+    },
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling"
+    },
+    {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien"
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley"
+    },
+    {
+        "title": "The Shining",
+        "author": "Stephen King"
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury"
+    },
+    {
+        "title": "Moby-Dick",
+        "author": "Herman Melville"
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho"
+    },
+    {
+        "title": "Gone with the Wind",
+        "author": "Margaret Mitchell"
+    }
+]
