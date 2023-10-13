@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Spline+Sans:wght@400;500;600;700&display=swap");
+
+body {
+    font-family: "Spline Sans", sans-serif;
+    color: #7777;
+    line-height: 1.7;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-weight: 600;
+    color: #222;
+}
+a {
+    color: #222;
+    text-decoration: none;
+    transition: all 0.4s;
+    font-weight: 600;
+    margin-left: 15px;
+}
+a:hover {
+    color: #222;
+}
+img {
+    width: 100%;
+}
+section {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.btn {
+    border-radius: 0.9rem;
+    padding: 14px 38px;
+}
+.btn-brand {
+    color: white;
+    font-weight: 500;
+    border:none;
+    background-color: yellowgreen ;
+}
+.btn-brand:hover {
+    border:none;
+    background-color: #222222b6;
+    color: white;
+}
+
+
+.bg-cover {
+    background-position: center !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
+
+.slide-1 {
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://images2.alphacoders.com/121/1213770.jpg");
+}
+.slide-2 {
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl9KpOSdU9pIL9ch85BG75nMj65FvUbnde8w&usqp=CAU");
+}
+.carousel-control-prev,
+.carousel-control-next {
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 40px;
+  height: 70px;
+  margin: auto;
+}
+
+
+#about .divider {
+    width: 280px;
+    height: 2px;
+    display: block;
+    background-color: #222;
+}
+#about img {
+    border-radius: 0.9rem;
+    width: 390px;
+    height: 410px;
+}
+.intro-text {
+    margin-bottom: 40px;
+    text-align: center;
+}
+.intro-text p {
+    max-width: 500px;
+    margin: 16px auto 0 auto;
+}
+
+.footer-top img {
+    border-radius: 0.9rem;
+}
+
+footer {
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) , url("https://assets.hongkiat.com/uploads/apple-concepts/macmini.jpg");
+    padding-top: 120px;
+    padding-bottom: 30px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+footer p {
+    color: white;
+}
+footer img {
+    width: 275px;
+}
+.card img {
+    width: 150px;
+    height: 300px;
+}
